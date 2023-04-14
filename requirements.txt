@@ -1,0 +1,3 @@
+easy_pil
+google-api-python-client
+discord
